@@ -18,3 +18,6 @@ Set up Firestore in Google Cloud.
 Write database import code.
 Generate a collection of customer data for testing.
 Import the test customer data into Firestore.
+
+Congratulations!
+Throughout the course of this lab, you received hands-on practice with Firestore. After generating a collection of customer data for testing, you ran a script that imported the data into Firestore. You then learned how to manipulate data in Firestore through the Cloud Console.
